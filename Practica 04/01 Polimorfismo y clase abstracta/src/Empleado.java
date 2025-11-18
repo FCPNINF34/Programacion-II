@@ -11,3 +11,5 @@ abstract class Empleado {
         return "Empleado: " + nombre;
     }
 }
+
+
