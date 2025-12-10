@@ -1,0 +1,56 @@
+[
+  {
+    "ci": 101,
+    "nombrePaciente": "Ana",
+    "apellidoPaciente": "Mendez",
+    "idMed": 1,
+    "dia": 12,
+    "mes": "Julio",
+    "año": 2024
+  },
+  {
+    "ci": 103,
+    "nombrePaciente": "Lucia",
+    "apellidoPaciente": "Soto",
+    "idMed": 3,
+    "dia": 2,
+    "mes": "Enero",
+    "año": 2024
+  },
+  {
+    "ci": 104,
+    "nombrePaciente": "Mario",
+    "apellidoPaciente": "Zeballos",
+    "idMed": 1,
+    "dia": 15,
+    "mes": "Agosto",
+    "año": 2024
+  },
+  {
+    "ci": 106,
+    "nombrePaciente": "Oscar",
+    "apellidoPaciente": "Molina",
+    "idMed": 3,
+    "dia": 22,
+    "mes": "Febrero",
+    "año": 2024
+  },
+  {
+    "ci": 107,
+    "nombrePaciente": "Caro",
+    "apellidoPaciente": "Loayza",
+    "idMed": 1,
+    "dia": 3,
+    "mes": "Marzo",
+    "año": 2024
+  },
+  {
+    "ci": 109,
+    "nombrePaciente": "Milton",
+    "apellidoPaciente": "Rico",
+    "idMed": 3,
+    "dia": 7,
+    "mes": "Mayo",
+    "año": 2024
+  }
+]
